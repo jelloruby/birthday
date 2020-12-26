@@ -30,7 +30,7 @@ function Gift() {
             <p>그럼 저도 20000 👋👋👋</p>
             <br/> 
             <button danger type="primary">
-                <a href="http://www.oliveyoung.co.kr" target="_blank">🐣 삐약 🐣</a>
+                <a href="https://m.oliveyoung.co.kr/m/common/partner.do?chlNo=10&chlDtlNo=2&isMsg=Y&redirectLinkUrl=order/getOrderPresentForm.do?ordNo=Y2012275730527&certKey=hkHdHbQuWO" target="_blank">🐣 삐약 🐣</a>
             </button>
         </WrapLetter>
     )
